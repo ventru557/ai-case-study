@@ -1,0 +1,52 @@
+.elementor-kit-6{--e-global-color-primary:#000000;--e-global-color-secondary:#000000;--e-global-color-text:#000000;--e-global-color-accent:#61CE70;--e-global-color-6b6d4a3:#FFFFFF;--e-global-color-02465ef:#000000;--e-global-color-d9ca0a8:#F1F3F6;--e-global-color-5877504:#7987A5;--e-global-color-4a3214c:#424C5D;--e-global-color-d84ed81:#0F59F2;--e-global-color-37502c6:#191F26;--e-global-color-255e43c:#F20F0F;--e-global-color-aeb70cf:#414141;--e-global-typography-primary-font-family:"ABCFavoritExtended-Medium";--e-global-typography-primary-font-size:18px;--e-global-typography-primary-text-transform:uppercase;color:var( --e-global-color-02465ef );font-family:"ABCFavorit-Light", Sans-serif;font-size:18px;line-height:28px;}.elementor-kit-6 a{color:var( --e-global-color-d84ed81 );}.elementor-kit-6 a:hover{color:var( --e-global-color-4a3214c );}.elementor-kit-6 h1{font-family:"ABCFavoritExtended-Regular", Sans-serif;font-size:100px;line-height:1.2em;}.elementor-kit-6 h2{font-family:"ABCFavoritExtended-Regular", Sans-serif;font-size:60px;line-height:67px;}.elementor-kit-6 h3{font-family:"ABCFavoritExtended-Regular", Sans-serif;font-size:28px;line-height:1.2em;}.elementor-kit-6 h4{font-family:"ABCFavoritMono-Book", Sans-serif;font-size:26px;}.elementor-kit-6 h5{font-family:"ABCFavoritMono-Book", Sans-serif;font-size:18px;text-transform:uppercase;letter-spacing:2px;}.elementor-kit-6 h6{font-family:"ABCFavoritExtended-Regular", Sans-serif;font-size:20px;font-weight:bold;text-transform:uppercase;}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{font-family:"ABCFavoritExtended-Medium", Sans-serif;font-size:10px;text-transform:uppercase;letter-spacing:2px;color:#000000;background-color:#FFFFFF00;border-style:solid;border-width:1px 1px 1px 1px;border-color:#000000;border-radius:50px 50px 50px 50px;}.elementor-kit-6 button:hover,.elementor-kit-6 button:focus,.elementor-kit-6 input[type="button"]:hover,.elementor-kit-6 input[type="button"]:focus,.elementor-kit-6 input[type="submit"]:hover,.elementor-kit-6 input[type="submit"]:focus,.elementor-kit-6 .elementor-button:hover,.elementor-kit-6 .elementor-button:focus{color:var( --e-global-color-6b6d4a3 );background-color:var( --e-global-color-02465ef );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1420px;}.e-con{--container-max-width:1420px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-header .site-navigation .menu li{font-family:"ABCFavoritExtended-Regular", Sans-serif;letter-spacing:3.5px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-kit-6{font-size:16px;line-height:26px;}.elementor-kit-6 h1{font-size:50px;line-height:1.2em;}.elementor-kit-6 h2{font-size:40px;line-height:1.2em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6{font-size:16px;line-height:26px;}.elementor-kit-6 h1{font-size:35px;line-height:1.3em;}.elementor-kit-6 h2{font-size:30px;line-height:38px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ABCFavoritExtended-Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Medium.eot');
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Medium.eot?#iefix') format('embedded-opentype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Medium.woff2') format('woff2'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Medium.woff') format('woff'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Medium.ttf') format('truetype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Medium.svg#ABCFavoritExtended-Medium') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ABCFavorit-Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavorit-Light.eot');
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavorit-Light.eot?#iefix') format('embedded-opentype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavorit-Light.woff2') format('woff2'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavorit-Light.woff') format('woff'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavorit-Light.ttf') format('truetype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavorit-Light.eot#ABCFavorit-Light') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ABCFavoritExtended-Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Regular.eot');
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Regular.eot?#iefix') format('embedded-opentype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Regular.woff2') format('woff2'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Regular.woff') format('woff'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Regular.ttf') format('truetype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritExtended-Regular.svg#ABCFavoritExtended-Regular') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ABCFavoritMono-Book';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritMono-Book.eot');
+	src: url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritMono-Book.eot?#iefix') format('embedded-opentype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritMono-Book.woff2') format('woff2'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritMono-Book.woff') format('woff'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritMono-Book.ttf') format('truetype'),
+		url('https://shield.ai/wp-content/uploads/2022/03/ABCFavoritMono-Book.svg#ABCFavoritMono-Book') format('svg');
+}
+/* End Custom Fonts CSS */
