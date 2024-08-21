@@ -1,5 +1,4 @@
-# ai-case-study
-This Case Study is part of AI Boot Camp assignment
+
 # AI-Case-Study: Shield.ai
 
 ## Overview
