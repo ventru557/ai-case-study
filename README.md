@@ -6,25 +6,32 @@ The AI-Case-Study project focuses on analyzing the innovative technologies and s
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Project Description](#project-description)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Features](#features)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+2. [Origin](#Origin)
+3. [Business Activities](#Business_Activities)
+4. [Landscape](#Landscape)
+5. [Achievements](#Achievements)
+6. [Collaborations](#collaborations)
+7. [Into the Future](#Into_the_Future)
+8. [My Recommondations](#My_Recommondations)
+9. [References](#References)
 
 ## Introduction
 Shield.ai is a leading company in the development of AI technologies for defense and security. This project explores the company's technological advancements, business model, and the implications of its AI solutions on modern warfare.
 
-## Project Description
-This case study provides a comprehensive analysis of Shield.ai's AI technologies, including their applications, benefits, and challenges. The study includes:
-- An overview of Shield.ai's AI products and services.
-- Analysis of the company's market positioning and competitive advantage.
-- Discussion of ethical considerations and regulatory challenges.
+## Origin
+The Idea for this company started with a simple thought from a former Navy Seal "What would the military of 2030 would look like and what role does autonomy play?." The answer they reached - AI pilots powering every military assert: aircraft, drones, ships, satellites and submarines. The Defense Industry at that time was lacking in talent to achieve that goal. This presented an opportunity to start fresh and build the aerospace and defense technology company of the 21st century focused on AI pilots. In 2015, Brandon Tseng (Navy Seal), Ryan Tseng and Andrew Reiter founded Shield AI. The AI developed by the company has been named HIVEMIND - best-in-class autonomy stack for aircraft and is combat tested, safe, modular, and human-directable.  
 
-## Installation
-To set up the project locally, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/AI-Case-Study.git
+## Business Activities
+Shield AI has mutiple products at their disposal ranging from drones to AI pilots. NOVA was the first product they have release, its a drone equipped with vision and thermal sensors, which can autonomously navigate complex subterranean and multi-story structures without GPS, comms or a human pilot. This product has been deployed in combat missions and has proven to be a great asset. Both US and Israeli forces have named NOVA 2 (second itiration on NOVA) as "most mission capable indoor drone" in the world.
+
+## Lanscape
+
+## Achievements
+
+## Collaborations
+
+## Into the Future
+
+## My Recommendations
+
+## References
