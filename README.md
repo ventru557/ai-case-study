@@ -26,6 +26,7 @@ The AI developed by the company has been named HIVEMIND - best-in-class autonomy
 ## Business Activities
 
 ### NOVA 2
+<img align="left" src="https://github.com/ventru557/ai-case-study/blob/main/Take-It-Anywhere-Equipment_NOVA2.jpg" alt="Description" width="400"/>
 Shield AI has mutiple products at their disposal ranging from drones to AI pilots. NOVA was the first product they have release, its a drone equipped with vision and thermal sensors, which can autonomously navigate complex subterranean and multi-story structures without GPS, comms or a human pilot. This product has been deployed in combat missions and has proven to be a great asset. Both US and Israeli forces have named NOVA 2 (second itiration on NOVA) as "most mission capable indoor drone" in the world. 
 NOVA 2 features: Day/Night Autonomy, GPS Denied Flight, Thermal Camera, Comms Link Denied Flight, Bounding Box Exploration, Payload Ready, Person Detection & Localization and Software Updates.
 
