@@ -37,11 +37,13 @@ NOVA 2 features: Day/Night Autonomy, GPS Denied Flight, Thermal Camera, Comms Li
 
 ### V-BAT
 <img align="right" src="https://github.com/ventru557/ai-case-study/blob/main/shield-ai-vbat.jpg" alt="Description" width="400"/>
+
 A vertical take-off and landing drone with a landing zones as small as 12' X 12' , with a wide range of interchangeable and customizable payloads options. The most tactical, most logistically simple UAS in the world. The only and major difference between V-BAT and other VTOL aircraft is the design with allows increases in thrust by 80% with a single power plant. This design allows V-BAT to fly for half day or stop and hover for hours on end. Another advantage is V-BAT is fully deployable by a 2-person team in 20 minutes, fits in the back of pickup truck or UH-60 Blackhawk. V-BAT right now are used by US Coast Guard to monitor seas.
 V-BAT Specs: Wing Span: 9.7ft, Length: 9ft, Weight: 125lbs, Endurance: 10 hrs, Landing Zone: 12ft X 12ft, Payload Capacity: 25lbs, Hover-To-Flight < 15secs, Service Ceiling: 20,000 ft
 
 ### AI Pilot
-<img align="left" src="https://github.com/ventru557/ai-case-study/blob/main/ezgif.com-crop.gif" alt="Description" width="400"/>
+<img src="https://github.com/ventru557/ai-case-study/blob/main/ezgif.com-crop.gif" alt="Description" width="300"/>
+
 These AI Pilot designed by Shield AI have a 99% win rate against simulated F-16 digfights verse active-duty fighter pilots. According to the company Hivemind its AI can perform a different missions from Beyond Visual Range of enemies air suppression systems. Hivemind will be deployed as a co-pilot on U.S.Air Force F-16, with a goal of scaling next-generation aircrafts. The company is looking into adding Hivemind as a co-polit for F-22s, and F-18s. According to Mark Esper, Former Secretary of Defense "whichever nation harnesses AI first will have decisive advantage on the battlefield for many years." One of the main feature of Hivemind is SensAI which enchances lefacy hardware and optimizes sensors for dynamic targeting. After countless tests as a Digital Co-Pilot, the company moving towards Man-Unmanned Team testing. This might be a game changer since a single pilot can be deployed with multiple UAVs who act as a team with human pilot to execute mission with incresed rate of success.
 
 
@@ -53,14 +55,13 @@ In the Defense space there are always new innovations and a constant competition
 <p>
     <img src="https://github.com/ventru557/ai-case-study/blob/main/Boeing-ShieldAI Collaboration" hspace="10" width="300">
     <img src="https://github.com/ventru557/ai-case-study/blob/main/Boeing-Shield-AI-Set-to-Collaborate-on-Artificial-Intelligence-Autonomy-for-Defense-Programs-e1678360877568-2297856544.jpg" hspace="10" width="300" >
-    
-</p>
+</p><br/>
 Shield AI, a US defense technology company, has teamed up with Sentient Vision Systems, an Australian AI company, to create an advanced wide area motion imagery (WAMI) solution for military use[1]. This collaboration aims to enhance the capabilities of Shield AI's V-BAT unmanned aircraft by integrating Sentient's ViDAR AI system. The partnership will allow the V-BAT drone to intelligently detect, classify, and track targets during dynamic missions. Shield AI plans to test this new capability on the V-BAT next year, which is expected to significantly improve its performance in challenging missions.
 Brandon Tseng, Shield AI's President and Co-founder, emphasized the unique nature of this international collaboration, highlighting how it brings together innovation from allied countries to shape the future of defense technology. Sentient's ViDAR system uses AI to detect and classify targets in imagery that would be difficult for human operators or conventional radar to spot. This enhancement is expected to make the V-BAT more effective in complex operations, ultimately contributing to improved threat deterrence and international security. This partnership represents a significant step forward in AI-enabled defense technology, combining the expertise of two leading companies in their respective fields to create more advanced and capable unmanned systems for military applications.
 
+<br/>
 
-
-<img align="left" src="https://github.com/ventru557/ai-case-study/blob/main/KratosSAI_Collaboration.jpg" hspace="10" width="300">
+<br/><img align="left" src="https://github.com/ventru557/ai-case-study/blob/main/KratosSAI_Collaboration.jpg" hspace="10" width="300">
 Shield AI and Kratos Defense & Security Solutions have announced a groundbreaking collaboration to integrate Shield AI's advanced AI pilot into Kratos' XQ-58 Valkyrie unmanned aircraft. This partnership aims to revolutionize crewed-uncrewed teaming in military aviation and enhance strategic deterrence capabilities. The integration of AI capabilities into unmanned aircraft like the XQ-58 Valkyrie represents a major step forward in military aviation technology, potentially changing the landscape of aerial warfare and defense strategies.
 
 ## Into the Future
